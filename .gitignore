@@ -1,6 +1,3 @@
-# Ignore audio files
-*.wav
-
 # Ignore NetCDF files
 *.nc
 
